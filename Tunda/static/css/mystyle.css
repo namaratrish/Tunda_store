@@ -1,0 +1,9 @@
+ul#sub1 {
+    position:absolute;
+    left:0;
+    width:125px;
+    visibility: hidden;
+}
+ul#menu li:hover #sub1 {
+    visibility:visible;
+}
